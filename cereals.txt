@@ -1,0 +1,34 @@
+Cap'n Crunch
+Cheerios
+Frosted Flakes
+Lucky Charms
+Cinnamon Toast Crunch
+Rice Krispies
+Froot Loops
+Honey Nut Cheerios
+Raisin Bran
+Cocoa Puffs
+Apple Jacks
+Frosted Mini-Wheats
+Trix
+Honey Bunches of Oats
+Fruity Pebbles
+Cookie Crisp
+Golden Grahams
+Corn Pops
+//judah added
+Cocoa Krispies
+
+//breakfast foods
+
+//this will create a conflict with my last branch
+//i will merge both
+French toast
+Fried eggs
+Breakfast potatoes
+Bacon
+Fruit salad
+Orange juice
+Coffee
+Waffles
+
